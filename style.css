@@ -47,6 +47,7 @@ body {
   #board-size{
     width: 100px;
     margin-right: 0px;
+    height: 22px;
   }
   .pixel {
     border: solid black 1px;
